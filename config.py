@@ -11,7 +11,7 @@ API_HASH = os.environ.get("API_HASH", "604403a236681897801a71a9aff3e92")
 
 
 OWNER_ID = int(os.environ.get("OWNER_ID", "1056566022"))
-DB_URL = os.environ.get("DB_URL", "abinnathNS93@cluster0.za32sml.mongodb.net")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://braveabi9361_db_user:XCDKJ3T6H5WikLU3@cluster0.ktll4yi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = os.environ.get("DB_NAME", "Movie portal")
 
 
@@ -31,7 +31,7 @@ F_PIC = os.environ.get("FORCE_PIC", "0")
 FILE_AUTO_DELETE = int(os.getenv("FILE_AUTO_DELETE", "0")) # auto delete in seconds
 
 
-PORT = os.environ.get("PORT", "19034")
+PORT = os.environ.get("PORT", "19099")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 
