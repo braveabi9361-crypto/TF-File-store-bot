@@ -25,13 +25,13 @@ FORCE_SUB_CHANNEL_3 = int(os.environ.get("FORCE_SUB_CHANNEL_3", "0"))
 
 FORCE_SUB_CHANNEL_4 = int(os.environ.get("FORCE_SUB_CHANNEL_4", "0"))
 
-START_PIC = os.environ.get("START_PIC", "https://files.catbox.moe/ufzpkn.jpg")
+START_PIC = os.environ.get("START_PIC", "https://github.com/braveabi9361-crypto/TF-File-store-bot/blob/7d5df79f6e751e0459a49755b35a713e5f6a6eb5/IMG_20251103_125415.jpg")
 F_PIC = os.environ.get("FORCE_PIC", "0")
 
 FILE_AUTO_DELETE = int(os.getenv("FILE_AUTO_DELETE", "0")) # auto delete in seconds
 
 
-PORT = os.environ.get("PORT", "8050")
+PORT = os.environ.get("PORT", "19034")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 
