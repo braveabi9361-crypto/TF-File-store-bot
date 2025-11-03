@@ -1,5 +1,5 @@
 <h2 align="Center"><b><i>File-sharing-Bot</i></b></h2>
-<center><img src="https://files.catbox.moe/ufzpkn.jpg" ></center>
+<center><img src="0" ></center>
 <p align="center">
   <a href="https://www.python.org">
     <img width="10" height="10" src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
