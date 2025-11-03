@@ -1,5 +1,5 @@
 <h2 align="Center"><b><i>File-sharing-Bot</i></b></h2>
-<center><img src="["](https://github.com/braveabi9361-crypto/TF-File-store-bot/blob/a9a76d1396272004ecb43ce4ff7f3a6be98c03fd/Picsart_25-11-03_12-37-10-059.jpg)" ></center>
+<center><img src="0" ></center>
 <p align="center">
   <a href="https://www.python.org">
     <img width="10" height="10" src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
